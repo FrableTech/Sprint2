@@ -1,0 +1,13 @@
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\bin\Debug\Sprint2.exe.config
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\bin\Debug\Sprint2.exe
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\bin\Debug\Sprint2.pdb
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\bin\Debug\Sprint2.xml
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\obj\Debug\Sprint2.vbprojAssemblyReference.cache
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\obj\Debug\Sprint2.Sprint2.resources
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\obj\Debug\Sprint2.Resources.resources
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\obj\Debug\Sprint2.vbproj.GenerateResource.cache
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\obj\Debug\Sprint2.vbproj.CoreCompileInputs.cache
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\obj\Debug\Sprint2.exe
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\obj\Debug\Sprint2.xml
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\obj\Debug\Sprint2.pdb
+C:\Users\Brian J. Frable\source\repos\Sprint2\Sprint2\obj\Debug\Sprint2.SlashScreenJF.resources
